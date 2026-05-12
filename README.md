@@ -1,6 +1,8 @@
 # aps-desenvolvimento-web-noite
 
-## 🛠️ Avaliação Prática Supervisionada (APS) - DESENVOLVIMENTO WEB - MANHA
+## 🛠️ Avaliação Prática Supervisionada (APS) - DESENVOLVIMENTO WEB - NOITE
+
+## 🛠️ OS ALUNOS DEVEM ENVIAR O NOMES DA DUPLA COM O MEDOTODO/FUNÇÃO ESCOLHIDA PARA A PROFESSORA ROSANA PELO ZAP (85) 99413-2366 OU EMAIL: ROSANAMARQUESDEV@GMAIL.COM
 
 
 ### Tópico: Análise e Aplicação de Métodos JavaScript
@@ -12,10 +14,7 @@ O objetivo desta atividade é avaliar a capacidade do aluno em pesquisar, compre
 ### 2. Formato e Atribuição
 
 * **Formato:** A atividade será realizada em **duplas**.
-* **Atribuição:** A cada dupla será **sorteado 1 (um) método** da lista oficial fornecida abaixo.
-
-### Lista de Métodos para sortear(foi realizado o sorteio em sala de aula no dia 11/05/26) 
-### OBS: Os alunos que faltaram no dia do sorteio devem fazer duplas e escolher um metodo desta lista:
+   * **Atribuição:** A dupla irá **ESCOLHER um método/função** da lista oficial fornecida abaixo:
 
 1. .map() 
 2. .filter()
@@ -56,7 +55,7 @@ A avaliação é composta por duas partes obrigatórias: um arquivo de código e
 
 O repositório para esta atividade já existe. O link para o repositório é:
 
-`https://github.com/desenvolvimento-web-unifametro/aps-desenvolvimento-web-manha.git`
+`https://github.com/desenvolvimento-web-unifametro/aps-desenvolvimento-web-noite.git`
 
 Cada dupla deverá **enviar seu arquivo `.js`** para a `branch main` do FORK.
 
@@ -73,7 +72,7 @@ Cada dupla deverá **enviar seu arquivo `.js`** para a `branch main` do FORK.
 
 #### Etapa 2: A Apresentação
 
-A dupla fará uma apresentação oral para a turma sobre o método sorteado.
+A dupla fará uma apresentação oral para a turma sobre o método escolhido.
 
 
 * **Tempo:** A apresentação deve ter duração de **5 a 10 minutos** (limite máximo).
@@ -125,14 +124,14 @@ Para garantir que seu arquivo seja enviado para o local correto, siga exatamente
 4.  **Crie um FORK do repositorio o Repositório Dentro da Pasta**
     Agora, no terminal que acabou de abrir, digite o comando para clonar (baixar) o repositório do FORK que você criou:
     ```bash
-    git clone [https://github.com/desenvolvimento-web-unifametro/prova-aps-desenvolvimento-web-manha-fork-aluno-fulano.git](https://github.com/desenvolvimento-web-unifametro/prova-aps-desenvolvimento-web-manha-fork-aluno-fulano.git)
+    git clone [https://github.com/desenvolvimento-web-unifametro/prova-aps-desenvolvimento-web-noite-fork-aluno-fulano.git](https://github.com/desenvolvimento-web-unifametro/prova-aps-desenvolvimento-web-noite-fork-aluno-fulano.git)
     ```
 
 5.  **Entre na Pasta que foi Clonada (Passo Crítico!)**
-    O Git acabou de criar uma nova subpasta chamada `prova-aps-desenvolvimento-web-manha-fork-aluno-fulano`. Você precisa entrar nela.
+    O Git acabou de criar uma nova subpasta chamada `prova-aps-desenvolvimento-web-noite-fork-aluno-fulano`. Você precisa entrar nela.
     Digite no terminal:
     ```bash
-    cd prova-aps-desenvolvimento-web-manha-fork-aluno-fulano
+    cd prova-aps-desenvolvimento-web-noite-fork-aluno-fulano
     ```
     **Atenção:** Todos os próximos comandos (`add`, `commit`, `push`) devem ser executados DE DENTRO desta pasta.
 
@@ -161,17 +160,15 @@ Para garantir que seu arquivo seja enviado para o local correto, siga exatamente
     Abra o link do repositório no seu navegador e confirme se o seu arquivo `.js` apareceu lá no seu FORK com o conteúdo correto.
 
 
-## 🛠️ Alunos que faltaram no dia do SORTEIO EM SALA podem escolher qualquer um dos metodos que estao na lista, PODENDO ESCOLHER APRESENTAR EM DUPLA OU FAZER SOZINHO (EXCECAO PARA OS ALUNOS QUE FALTARAM O SORTEIO)
+## LISTAGEM DAS DUPLAS OU SOLO:
 
-## ABAIXO ESTA OS METODOS QUE FORAM SORTEADOS PARA OS ALUNOS (DUPLAS) QUE ESTAVAM EM SALA DE AULA:
-
-| ALUNOS (DUPLAS OU SOLO)                                                    |  METODO/FUNCAO  |
+| ALUNOS (DUPLAS OU SOLO)                                                    |  METODO/FUNCAO         |
 | -------------------------------------------------------------------------- |:----------------------:|
 |                                                                            |                        |
 
 
 
-## 🛠️ QUALQUER DUVIDA ENTRAR EM CONTATO COM A PROFESSORA ROSANA PELO ZAP (85) 99413-2366
+## 🛠️ QUALQUER DUVIDA ENTRAR EM CONTATO COM A PROFESSORA ROSANA PELO ZAP (85) 99413-2366 
 
 ** Para conseguir enviar seu arquivo para o repositorio da aps (fazer o push, enviando seu arquivo) o aluno deverá:
 1 - Fazer um FORK do repositorio, fazer o codigo, enviar na branch main
